@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/backup"
+        android:icon="@drawable/ic_backup"
+        android:showAsAction="always"
+        android:title="Backup">
+
+    </item>
+    <item
+        android:id="@+id/delete"
+        android:icon="@drawable/ic_delete"
+        android:showAsAction="ifRoom"
+        android:title="Delete">
+
+    </item>
+    <item
+        android:id="@+id/settings"
+        android:icon="@drawable/ic_settings"
+        android:showAsAction="never"
+        android:title="Settings">
+
+    </item>
+</menu>
