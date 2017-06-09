@@ -5,7 +5,6 @@
 一个Android5.0新特性的小demo，任何一个知识点时间久了不用，都会忘掉，记录下来，以后用到的时候，可以直接来参考
 ---
 ##运行截图
-![image](https://github.com/wanglijun93/MaterialDesign/raw/master/jietu/Screenshot_2017-06-08-22-02-44-922_wanglijun.vip..png "首页")
-![image](https://github.com/wanglijun93/MaterialDesign/raw/master/jietu/Screenshot_2017-06-08-22-02-56-106_wanglijun.vip..png "actionBar")
-![image](https://github.com/wanglijun93/MaterialDesign/raw/master/jietu/Screenshot_2017-06-08-22-02-51-759_wanglijun.vip..png "左侧页面")
-![image](https://github.com/wanglijun93/MaterialDesign/raw/master/jietu/Screenrecorder-2017-06-08-10-03-25-201.mp4 "运行视频")
+![image](https://github.com/wanglijun93/MaterialDesign/raw/master/jietu/20170609223757.jpg "首页")
+![image](https://github.com/wanglijun93/MaterialDesign/raw/master/jietu/20170609223717.jpg "actionBar")
+![image](https://github.com/wanglijun93/MaterialDesign/raw/master/jietu/20170609223749.jpg "左侧页面")
